@@ -1,5 +1,0 @@
-module TestSSH [system] {
-  header "/usr/local/include/libssh/libssh.h"
-  link "TestSSH"
-  export *
-}

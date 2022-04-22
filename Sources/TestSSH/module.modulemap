@@ -1,0 +1,5 @@
+module LibSSH {
+    header "../../Headers/TestSSH-Bridging-Header.h"
+    link "libssh"
+    export *
+}
