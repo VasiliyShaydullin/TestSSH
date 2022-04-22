@@ -6,8 +6,7 @@ import PackageDescription
 let package = Package(
     name: "TestSSH",
     products: [
-        .library(
-            name: "TestSSH", targets: ["TestSSH"]),
+        .library(name: "TestSSH", targets: ["TestSSH"]),
     ],
     targets: [
         .systemLibrary(name: "TestSSH"),
