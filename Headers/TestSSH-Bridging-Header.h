@@ -1,1 +1,1 @@
-#import <libssh.h>
+#import </usr/local/include/libssh/libssh.h>
